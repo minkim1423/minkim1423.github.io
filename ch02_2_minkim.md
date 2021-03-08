@@ -221,7 +221,7 @@ for i, degree in enumerate([1, 3, 5, 10], start=1):  # 1, 3, 5, 10 의 차원(�
 
 
     
-![png](output_3_0.png)
+
     
 
 
